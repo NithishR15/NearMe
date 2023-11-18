@@ -195,14 +195,14 @@ Imagicaa Water Park is a Mykonos-themed Park. With thrilling slides, including g
 ```
 
 ## OUTPUT
-![Alt text](<image map.png>)
+![Alt text](<image map 1.png>)
 ![Alt text](<Screenshot (5).png>)
 ![Alt text](<Screenshot (6).png>)
 ![Alt text](<Screenshot (7).png>)
 ![Alt text](<Screenshot (8).png>)
 ![Alt text](<Screenshot (9).png>)
 
-## HTML VALIDATOR
+
 
 
 ## RESULT
